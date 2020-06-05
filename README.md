@@ -5,7 +5,7 @@
    Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o **ecoleta**
  
  <div align='center'>
- <img src="https://user-images.githubusercontent.com/58826355/83911277-60af4200-a742-11ea-9438-8ee2e3da8e87.png" alt="drawing" width="400"/>
+ <img src="https://github.com/Matheus0liveira/nlw/blob/master/images/logo.svg" alt="logo" width="400"/>
 
  </div>
 
