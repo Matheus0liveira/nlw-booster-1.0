@@ -19,7 +19,7 @@
 <div align='center'>
    <a href='#nlw'>NLW<a/> |
    <a href='#ecoleta'>  ECOLETA<a/> |
-   <a href='#dias'> Dias<a/> | 
+   <a href='#dias'> DIAS<a/> | 
    <a href='#tecnologias'>  TECNOLOGIAS<a/> |
    <a href='#layout'> LAYOUT<a/> 
    <hr/>
