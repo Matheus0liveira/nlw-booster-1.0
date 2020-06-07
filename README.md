@@ -1,5 +1,16 @@
 # <div align='center'> 🥇 Next Level Week </div>
 
+<hr/>
+
+<div align='center'>
+   <a href='#nlw'>NLW<a/> |
+   <a href='#ecoleta'>  ECOLETA<a/> |
+   <a href='#dias'> DIAS<a/> | 
+   <a href='#tecnologias'>  TECNOLOGIAS<a/> |
+   <a href='#layout'> LAYOUT<a/> 
+   <hr/>
+</div>
+
 
 ### <p id='nlw'>  🚀 O que é a NLW ? <p/>
    Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o **ecoleta**
@@ -14,16 +25,7 @@
 <div align='center'>
    <img src="https://user-images.githubusercontent.com/58826355/83905245-ba5e3f00-a737-11ea-8523-53896aec8cd1.png" alt="drawing" width="400"/>
 </div>
-<hr/>
 
-<div align='center'>
-   <a href='#nlw'>NLW<a/> |
-   <a href='#ecoleta'>  ECOLETA<a/> |
-   <a href='#dias'> DIAS<a/> | 
-   <a href='#tecnologias'>  TECNOLOGIAS<a/> |
-   <a href='#layout'> LAYOUT<a/> 
-   <hr/>
-</div>
       
       
 ### <p id='dias'> 🔥 Dias <p/>
